@@ -1,0 +1,12 @@
+[DEFAULT]
+telegram_url = https://api.telegram.org/bot
+bot_token = 0
+
+# user
+chat_id = 0
+
+# group
+#chat_id = -1
+
+proxy_type = https
+proxy_url = 0
